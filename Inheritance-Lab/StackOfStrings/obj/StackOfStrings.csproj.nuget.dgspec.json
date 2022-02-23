@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Lab\\01.SingleInheritance\\01.SingleInheritance.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Lab\\StackOfStrings\\StackOfStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Lab\\01.SingleInheritance\\01.SingleInheritance.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Lab\\StackOfStrings\\StackOfStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Lab\\01.SingleInheritance\\01.SingleInheritance.csproj",
-        "projectName": "01.SingleInheritance",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Lab\\01.SingleInheritance\\01.SingleInheritance.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Lab\\StackOfStrings\\StackOfStrings.csproj",
+        "projectName": "StackOfStrings",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Lab\\StackOfStrings\\StackOfStrings.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Lab\\01.SingleInheritance\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Lab\\StackOfStrings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

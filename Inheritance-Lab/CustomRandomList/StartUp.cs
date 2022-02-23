@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace _01.SingleInheritance
+namespace CustomRandomList
 {
-    class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
