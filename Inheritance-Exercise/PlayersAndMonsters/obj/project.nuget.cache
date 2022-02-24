@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AnV835cU/bSLEGqqeFuycDMgCFk0ymaCzFOuQBR3kDzcUzbfpkXEfMVrinJbzffbzoelD57tzUbGZP2l0U+Skg==",
+  "dgSpecHash": "WDbnf+hnDo4/1xcQi8qL1uIOFG4BJKpXVotHqhy9i9Gh5OfvszfSvHe9E7tP3UtnU89NDY0xvajN1SwagjSaIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

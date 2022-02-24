@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\NeedForSpeed\\NeedForSpeed.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\NeedForSpeed\\NeedForSpeed.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\NeedForSpeed\\NeedForSpeed.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\NeedForSpeed\\NeedForSpeed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\NeedForSpeed\\NeedForSpeed.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\NeedForSpeed\\NeedForSpeed.csproj",
         "projectName": "NeedForSpeed",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\NeedForSpeed\\NeedForSpeed.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\NeedForSpeed\\NeedForSpeed.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\NeedForSpeed\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\NeedForSpeed\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

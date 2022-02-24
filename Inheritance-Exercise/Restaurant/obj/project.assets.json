@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\Restaurant\\Restaurant.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\Restaurant\\Restaurant.csproj",
       "projectName": "Restaurant",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\Restaurant\\Restaurant.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\Restaurant\\Restaurant.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\Restaurant\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\Restaurant\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

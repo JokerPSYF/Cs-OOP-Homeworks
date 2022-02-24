@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
         "projectName": "PlayersAndMonsters",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\PlayersAndMonsters\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\PlayersAndMonsters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ew6egjZhSXfFj17kpKDWihdBx5rEHPnIPvygolBuW4sFksNWf2K2CHrn9aRMo/cBTMVruBj7x47JZJCsnWdc1g==",
+  "dgSpecHash": "blLWry3KDNBkPVRc6mysChid/bxBDwwihi0KO6Y2N4l9BFLqGmNGRlpcIaRPRVnA+ZcoovrKPqjQzlxBnMF8+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\Person\\Person.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\Person\\Person.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

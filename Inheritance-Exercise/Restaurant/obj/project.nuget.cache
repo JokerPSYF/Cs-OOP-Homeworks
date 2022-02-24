@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uf9k21KhmPOymGrDhbV9fn6WtOu/vzCwHfKl08un00XZt6LOqYbrnepvNZjXSQjLdrW80uGddAFUIWP4V3TSBQ==",
+  "dgSpecHash": "df2zC1TR2ZJYphn5Wh8L8b69VIUqiO6OBBTciKq2UqNN2H2djd2dr6S4VgirS5sYj34TQsRG605LLjZVynN+Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\Restaurant\\Restaurant.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\Restaurant\\Restaurant.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

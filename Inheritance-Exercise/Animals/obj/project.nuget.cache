@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j4E3SwmLXrJ9i7D9sFnaMVShPoydVIsPfch54hTp+l6VxWqmkajBKzGuloyfPP5PjiYzbQI12tyUx6gr657/AA==",
+  "dgSpecHash": "1rH7f28rQwfYcl2l7Qqz9XEX+/BacSuNifrqGlZ7F69KVq32zMAJuB4ggnXvC4dkKoUySMiWl2r5yUgOtuHlqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\01. CSharp-OOP-Inheritance-Exercise-Skeleton\\Animals\\Animals.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Cs-OOP-Homeworks\\Inheritance-Exercise\\Animals\\Animals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
