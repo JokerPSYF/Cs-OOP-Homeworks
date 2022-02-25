@@ -1,0 +1,16 @@
+﻿Your task is to create the following game hierarchy: 
+Hero
+{
+Elf => MuseElf;
+Wizard => DarkWizard => SoulMaster;
+Knight => DarkKnight => BladeKnight;
+}
+
+Create a class Hero. It should contain the following members:
+A constructor, which accepts:
+ousername – string
+olevel – int
+The following properties:
+oUsername - string
+oLevel – int
+ToString() method
