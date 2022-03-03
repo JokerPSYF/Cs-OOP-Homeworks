@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.exe
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.deps.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.genruntimeconfig.cache
