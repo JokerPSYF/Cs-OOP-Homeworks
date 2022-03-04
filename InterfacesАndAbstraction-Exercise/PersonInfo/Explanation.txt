@@ -1,0 +1,7 @@
+﻿Define an interface IPerson with properties for Name and Age. 
+Define a class Citizen that implements IPerson and has two properties string name and an int age.
+The Citizen should accept name and age upon initialization.
+
+Using the code from the previous task, define an interface IIdentifiable with a string property
+Id and an interface IBirthable with a string property Birthdate and implement them in the Citizen class.
+Rewrite the Citizen constructor to accept the new parameters.

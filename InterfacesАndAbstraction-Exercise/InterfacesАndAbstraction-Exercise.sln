@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo", "PersonInfo\PersonInfo.csproj", "{594324AF-9E36-44D0-AF14-F981D0B87CD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telephony", "Telephony\Telephony.csproj", "{BC668C41-730B-4BC5-9EFC-84F288CFD453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594324AF-9E36-44D0-AF14-F981D0B87CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594324AF-9E36-44D0-AF14-F981D0B87CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594324AF-9E36-44D0-AF14-F981D0B87CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594324AF-9E36-44D0-AF14-F981D0B87CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC668C41-730B-4BC5-9EFC-84F288CFD453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC668C41-730B-4BC5-9EFC-84F288CFD453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC668C41-730B-4BC5-9EFC-84F288CFD453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC668C41-730B-4BC5-9EFC-84F288CFD453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {819014BC-F087-4B9A-BE60-2F0F9A6D03EE}
+	EndGlobalSection
+EndGlobal
