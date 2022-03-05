@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.deps.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\InterfacesАndAbstraction-Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.genruntimeconfig.cache
