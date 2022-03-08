@@ -22,7 +22,6 @@ namespace Vehicles
             else
             {
                 FuelQuantity = 0;
-              //  Console.WriteLine($"Cannot fit {fuelQuantity} fuel in the tank");
             }
 
         }
