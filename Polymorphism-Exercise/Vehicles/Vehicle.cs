@@ -8,13 +8,34 @@ namespace Vehicles
 
         public double FuelConsumption { get; set; }
 
-        public Vehicle(double fuelQuantity, double fuelConsumption)
+        public double TankCapacity { get; set; }
+
+        public Vehicle(double fuelQuantity, double fuelConsumption, double tankCapacity)
         {
-            FuelQuantity = fuelQuantity;
             FuelConsumption = fuelConsumption;
+            TankCapacity = tankCapacity;
+
+            if (fuelQuantity <= tankCapacity)
+            {
+                FuelQuantity = fuelQuantity;
+            }
+            else
+            {
+                FuelQuantity = 0;
+              //  Console.WriteLine($"Cannot fit {fuelQuantity} fuel in the tank");
+            }
+
         }
 
-        public virtual void Refuel(double gas) => FuelQuantity += gas;
+        public virtual void Refuel(double gas)
+        {
+            if (gas <= 0) Console.WriteLine("Fuel must be a positive number");
+
+            else if (gas + FuelQuantity <= TankCapacity) FuelQuantity += gas;
+
+            else Console.WriteLine($"Cannot fit {gas} fuel in the tank");
+
+        }
 
         private bool CanDrive(double km) => FuelQuantity >= km * FuelConsumption;
 
