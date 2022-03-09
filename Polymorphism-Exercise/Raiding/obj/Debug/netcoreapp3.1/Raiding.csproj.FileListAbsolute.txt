@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Polymorphism-Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache
