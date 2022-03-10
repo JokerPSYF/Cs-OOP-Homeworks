@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\bin\Debug\netcoreapp3.1\04.SumОfIntegers.exe
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\bin\Debug\netcoreapp3.1\04.SumОfIntegers.deps.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\bin\Debug\netcoreapp3.1\04.SumОfIntegers.runtimeconfig.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\bin\Debug\netcoreapp3.1\04.SumОfIntegers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\bin\Debug\netcoreapp3.1\04.SumОfIntegers.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\bin\Debug\netcoreapp3.1\04.SumОfIntegers.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\obj\Debug\netcoreapp3.1\04.SumОfIntegers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\obj\Debug\netcoreapp3.1\04.SumОfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\obj\Debug\netcoreapp3.1\04.SumОfIntegers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\obj\Debug\netcoreapp3.1\04.SumОfIntegers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\obj\Debug\netcoreapp3.1\04.SumОfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\obj\Debug\netcoreapp3.1\04.SumОfIntegers.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\obj\Debug\netcoreapp3.1\04.SumОfIntegers.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\04.SumОfIntegers\obj\Debug\netcoreapp3.1\04.SumОfIntegers.genruntimeconfig.cache
