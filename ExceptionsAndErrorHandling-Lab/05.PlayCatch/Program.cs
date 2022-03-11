@@ -49,18 +49,17 @@ namespace _05.PlayCatch
                             {
                                 if (startIndex >= 0 && startIndex < endIndex && endIndex < nums.Length)
                                 {
-                                    for (int i = startIndex; i <= endIndex; i++)
-                                    {
-                                        if(i == endIndex) Console.Write(nums[i]);
-                                        else Console.Write(nums[i] + ", ");
-                                    }
+                                    //for (int i = startIndex; i <= endIndex; i++)
+                                    //{
+                                    //    if(i == endIndex) Console.Write(nums[i]);
+                                    //    else Console.Write(nums[i] + ", ");
+                                    //}
 
-                                    Console.WriteLine();
-                                    //  Console.WriteLine(string.Join(", ", nums));
+                                    //Console.WriteLine();
 
-                                    //string result = string.Join(", ", nums, startIndex, (endIndex - startIndex + 1));
-                                    //   Console.WriteLine(result);
-                                    //   Console.WriteLine(string.Join(", ", nums, 1, 1));
+                                    string result = string.Join(", ", nums.Select(x => x.ToString()).ToArray()
+                                        , startIndex, (endIndex - startIndex + 1));
+                                      Console.WriteLine(result);
                                 }
                                 else
                                 {
