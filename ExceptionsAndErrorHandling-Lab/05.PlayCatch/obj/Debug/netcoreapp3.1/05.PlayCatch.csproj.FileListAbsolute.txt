@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\netcoreapp3.1\05.PlayCatch.exe
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\netcoreapp3.1\05.PlayCatch.deps.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\netcoreapp3.1\05.PlayCatch.runtimeconfig.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\netcoreapp3.1\05.PlayCatch.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\netcoreapp3.1\05.PlayCatch.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\netcoreapp3.1\05.PlayCatch.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\netcoreapp3.1\05.PlayCatch.genruntimeconfig.cache
