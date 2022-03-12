@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.Stream_Progress", "..\.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.Graphic_Editor", "..\..\..\..\Desktop\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P02.Graphic_Editor\P02.Graphic_Editor.csproj", "{DDAEE266-F094-43D9-962B-ADAEDEDEE5D6}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.Detail_Printer", "..\..\..\..\Desktop\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P03.Detail_Printer\P03.Detail_Printer.csproj", "{C18152C4-3D76-45E6-BD46-70343B91BBAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DDAEE266-F094-43D9-962B-ADAEDEDEE5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDAEE266-F094-43D9-962B-ADAEDEDEE5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDAEE266-F094-43D9-962B-ADAEDEDEE5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18152C4-3D76-45E6-BD46-70343B91BBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18152C4-3D76-45E6-BD46-70343B91BBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18152C4-3D76-45E6-BD46-70343B91BBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18152C4-3D76-45E6-BD46-70343B91BBAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
