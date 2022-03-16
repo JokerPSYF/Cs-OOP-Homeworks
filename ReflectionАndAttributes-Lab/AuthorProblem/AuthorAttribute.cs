@@ -2,6 +2,8 @@
 
 namespace AuthorProblem
 {
+    [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method, AllowMultiple = true)]
+
     public class AuthorAttribute : Attribute
     {
         public AuthorAttribute(string name)

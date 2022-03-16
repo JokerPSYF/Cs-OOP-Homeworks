@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache
