@@ -92,7 +92,7 @@ namespace Stealer
 
             foreach (MethodInfo method in classmethods.Where(m => m.Name.StartsWith("set")))
             {
-                stringBuilder.AppendLine($"{method.Name} will return {method.ReturnType}");
+                stringBuilder.AppendLine($"{method.Name} will set field of {method.GetParameters().First().ParameterType}");
             }
 
             return stringBuilder.ToString().Trim();
