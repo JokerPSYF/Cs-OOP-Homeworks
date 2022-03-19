@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{23496AFD-5A4B-4FD0-B5DD-4BA3031F7C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationAttributes", "ValidationAttributes\ValidationAttributes.csproj", "{5BA6480E-C964-4814-891C-7C4BF4F04F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23496AFD-5A4B-4FD0-B5DD-4BA3031F7C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23496AFD-5A4B-4FD0-B5DD-4BA3031F7C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23496AFD-5A4B-4FD0-B5DD-4BA3031F7C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23496AFD-5A4B-4FD0-B5DD-4BA3031F7C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA6480E-C964-4814-891C-7C4BF4F04F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA6480E-C964-4814-891C-7C4BF4F04F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA6480E-C964-4814-891C-7C4BF4F04F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA6480E-C964-4814-891C-7C4BF4F04F19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7801CCEA-4C76-4029-A92E-7219B0F94F75}
+	EndGlobalSection
+EndGlobal
