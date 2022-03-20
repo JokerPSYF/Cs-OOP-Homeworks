@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\Unit-Testing-Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache
