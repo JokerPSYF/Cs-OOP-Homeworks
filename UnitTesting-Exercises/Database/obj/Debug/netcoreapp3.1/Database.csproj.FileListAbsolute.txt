@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\UnitTesting-Exercises\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\UnitTesting-Exercises\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\UnitTesting-Exercises\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\UnitTesting-Exercises\Database\obj\Debug\netcoreapp3.1\Database.pdb
