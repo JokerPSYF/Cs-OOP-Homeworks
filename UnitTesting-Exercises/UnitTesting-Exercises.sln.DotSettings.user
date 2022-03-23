@@ -5,5 +5,17 @@
     &lt;TestId&gt;NUnit3x::5795F810-87D3-4FC9-89B3-61985EE6F92B::.NETCoreApp,Version=v3.1::Database.Tests.DatabaseTests.WhenYouRemoveAnElementShouldTheLastElementBeenRemoved&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::5795F810-87D3-4FC9-89B3-61985EE6F92B::.NETCoreApp,Version=v3.1::Database.Tests.DatabaseTests.FetchShouldReturnArray&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::5795F810-87D3-4FC9-89B3-61985EE6F92B::.NETCoreApp,Version=v3.1::Database.Tests.DatabaseTests.CtorShouldTakeLessthan16Integers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.CtorShouldTakeLessThan16Persons&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.WhenYouAddMoreThan17PersonsThrowException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.AddShouldThrowsException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.WhenYouRemoveAnElementShouldTheLastElementBeenRemoved&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.FindByThrowsException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.FindByThrowsExceptions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.CountShouldGiveTheCountOfElements&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.CtorShouldMakeNewDataBaseSuccesfull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.AddPersons&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.WhenYouRemoveFromDataBaseCountShouldDecrease&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.FindByUserNameThrowsExceptions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.FindByIDThrowsExceptions&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
