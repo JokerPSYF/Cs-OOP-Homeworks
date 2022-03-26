@@ -1,21 +1,11 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b3de3929_002Ddbdd_002D4fed_002Dba0e_002D51d2a5d56e66/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WhenYouAddMoreThan16ElementsShouldThrowException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d08b5ce1_002Dad3a_002D44b6_002D9b67_002D32dda5c0ce7b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FuelConsumptionShould_ThrowArgumentException_WhenSetItNegativeNum" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::5795F810-87D3-4FC9-89B3-61985EE6F92B::.NETCoreApp,Version=v3.1::Database.Tests.DatabaseTests.WhenYouAddMoreThan16ElementsShouldThrowException&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::5795F810-87D3-4FC9-89B3-61985EE6F92B::.NETCoreApp,Version=v3.1::Database.Tests.DatabaseTests.WhenYouRemoveAnElementShouldTheLastElementBeenRemoved&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::5795F810-87D3-4FC9-89B3-61985EE6F92B::.NETCoreApp,Version=v3.1::Database.Tests.DatabaseTests.FetchShouldReturnArray&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::5795F810-87D3-4FC9-89B3-61985EE6F92B::.NETCoreApp,Version=v3.1::Database.Tests.DatabaseTests.CtorShouldTakeLessthan16Integers&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.CtorShouldTakeLessThan16Persons&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.WhenYouAddMoreThan17PersonsThrowException&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.AddShouldThrowsException&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.WhenYouRemoveAnElementShouldTheLastElementBeenRemoved&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.FindByThrowsException&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.FindByThrowsExceptions&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.CountShouldGiveTheCountOfElements&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.CtorShouldMakeNewDataBaseSuccesfull&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.AddPersons&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.WhenYouRemoveFromDataBaseCountShouldDecrease&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.FindByUserNameThrowsExceptions&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2CA77E66-6639-40BB-95E7-672D3E22C7DC::.NETCoreApp,Version=v3.1::DatabaseExtended.Tests.ExtendedDatabaseTests.FindByIDThrowsExceptions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1FB916D-50FB-496B-83F9-BDF2F37EA267::.NETCoreApp,Version=v3.1::CarManager.Tests.CarManagerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fc3eaefc_002Dd6d8_002D4614_002D9132_002D8763efcc76cc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ModelShould_ThrowArgumentException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1FB916D-50FB-496B-83F9-BDF2F37EA267::.NETCoreApp,Version=v3.1::CarManager.Tests.CarManagerTests.ModelShould_ThrowArgumentException&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
