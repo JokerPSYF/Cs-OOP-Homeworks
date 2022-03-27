@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.exe
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.deps.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.runtimeconfig.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\MockingАndTestDrivenDevelopment-Lab\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.csproj.CopyComplete
