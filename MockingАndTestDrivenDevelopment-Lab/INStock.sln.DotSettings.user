@@ -5,5 +5,8 @@
     &lt;TestId&gt;NUnit3x::1BBB1AD9-3B2F-4A82-9F43-BD05EA8C3641::.NETCoreApp,Version=v3.1::FakeAxeAndDummy.Test.DummyTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::1BBB1AD9-3B2F-4A82-9F43-BD05EA8C3641::.NETCoreApp,Version=v3.1::FakeAxeAndDummy.Test.AxeTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D95137DF-43B3-47C8-ADB0-3A510EC897B4::.NETCoreApp,Version=v3.1::INStock.Tests.ProductTests.ShouldReturnTheExpensiveProduct&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D95137DF-43B3-47C8-ADB0-3A510EC897B4::.NETCoreApp,Version=v3.1::INStock.Tests.ProductStockTests.ShouldGiveAddProductInStock&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D95137DF-43B3-47C8-ADB0-3A510EC897B4::.NETCoreApp,Version=v3.1::INStock.Tests.ProductStockTests.ShouldFindProduct&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D95137DF-43B3-47C8-ADB0-3A510EC897B4::.NETCoreApp,Version=v3.1::INStock.Tests.ProductStockTests.ShouldGiveTheCountOfProducts&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

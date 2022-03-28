@@ -8,6 +8,11 @@ namespace INStock
     {
         private List<IProduct> products = new List<IProduct>();
 
+        public ProductStock()
+        {
+            products = new List<IProduct>();
+        }
+
         public IEnumerator<IProduct> GetEnumerator()
         {
             throw new System.NotImplementedException();
@@ -18,7 +23,7 @@ namespace INStock
             return GetEnumerator();
         }
 
-        public int Count { get; }
+        public int Count => products.Count;
 
         public IProduct this[int index]
         {
