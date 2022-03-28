@@ -4,7 +4,7 @@ using INStock.Contracts;
 
 namespace INStock
 {
-    public class Kaufland : IProductStock
+    public class ProductStock : IProductStock
     {
         private List<IProduct> products = new List<IProduct>();
 
