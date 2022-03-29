@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using INStock.Contracts;
@@ -51,7 +52,7 @@ namespace INStock.Tests
         }
 
         [Test]
-        public void FindShould_ThrwoExceptionWhenIndexIsOutOfRange_NegativeTest()
+        public void FindShould_ThrowExceptionWhenIndexIsOutOfRange_NegativeTest()
         {
             kaufland.Add(pepsi);
             kaufland.Add(cola);
@@ -60,7 +61,7 @@ namespace INStock.Tests
         }
         
         [Test]
-        public void FindShould_GiveSecondProduct()
+        public void FindShould_GiveSecondProduct_PositiveTest()
         {
             kaufland.Add(pepsi);
             kaufland.Add(cola);
@@ -69,5 +70,44 @@ namespace INStock.Tests
 
             Assert.AreEqual(cola, pr);
         }
+
+        [Test]
+        public void FindLabelShould_ThrowEcxeption_WhenTheresNoSuchLabel_NegativeTest()
+        {
+            kaufland.Add(pepsi);
+            kaufland.Add(cola);
+
+            Assert.Throws<ArgumentException>(() => kaufland.FindByLabel("Fanta"));
+        }
+
+        [Test]
+        public void FindLabelShould_GiveSecondProduct_PositiveTest()
+        {
+            kaufland.Add(pepsi);
+            kaufland.Add(cola);
+
+            IProduct pr = kaufland.FindByLabel("Cola");
+
+            Assert.AreEqual(cola, pr);
+        }
+
+        [Test]
+        public void FindAllInPriceRange_PositiveTest()
+        {
+            kaufland.Add(pepsi);
+            kaufland.Add(cola);
+
+            IEnumerable<IProduct> products = kaufland.FindAllInRange(2.00, 2.70);
+            
+            Assert.True(products.First() == cola);
+
+            Assert.AreEqual(2, products.Count());
+
+            products = kaufland.FindAllInRange(5.00, 6.00);
+
+            Assert.AreEqual(0, products.Count());
+        }
+
+
     }
 }
