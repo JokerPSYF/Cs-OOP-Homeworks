@@ -27,7 +27,7 @@ namespace NavalVessels.Models
                 }
             }
         }
-
+        
         public ICaptain Captain
         {
             get
@@ -99,7 +99,7 @@ namespace NavalVessels.Models
             sb.AppendLine($"- {Name}");
             if (Targets.Count == 0) sb.AppendLine("*Targets: None");
             else sb.AppendLine($"*Targets: {string.Join(", ", Targets)}");
-
+            
             return sb.ToString().TrimEnd();
         }
     }
