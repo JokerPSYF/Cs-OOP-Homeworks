@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9c8cf450_002D9415_002D4001_002Dacaa_002D560b2b42d395/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="VesselsMustThrowExceptionWhenYouAddEmptyValues" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::9EBC8113-BF72-47D5-9FCA-E9A5A041327C::.NETCoreApp,Version=v3.1::NavalVessels.Tests.UnitTest1.VesselsCtorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::9EBC8113-BF72-47D5-9FCA-E9A5A041327C::.NETCoreApp,Version=v3.1::NavalVessels.Tests.UnitTest1.VesselMethod_Attack&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

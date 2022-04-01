@@ -25,6 +25,10 @@ namespace NavalVessels.Models
                 {
                     throw new ArgumentNullException(ExceptionMessages.InvalidVesselName);
                 }
+                else
+                {
+                    name = value;
+                }
             }
         }
 
@@ -36,6 +40,10 @@ namespace NavalVessels.Models
                 if (value == null)
                 {
                     throw new NullReferenceException(ExceptionMessages.InvalidCaptainToVessel);
+                }
+                else
+                {
+                    captain = value;
                 }
             }
         }
