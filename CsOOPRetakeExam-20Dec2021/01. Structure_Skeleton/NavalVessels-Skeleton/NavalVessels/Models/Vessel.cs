@@ -12,13 +12,13 @@ namespace NavalVessels.Models
         private string name;
         private ICaptain captain;
         private double defaultArmorThikness;
+        private double armorThickness;
+        protected double mainWeaponCaliber;
+        protected double speed;
 
         public string Name
         {
-            get
-            {
-                return name;
-            }
+            get => name;
             set
             {
                 if (String.IsNullOrWhiteSpace(value))
@@ -27,13 +27,10 @@ namespace NavalVessels.Models
                 }
             }
         }
-        
+
         public ICaptain Captain
         {
-            get
-            {
-                return captain;
-            }
+            get => captain;
             set
             {
                 if (value == null)
@@ -43,23 +40,27 @@ namespace NavalVessels.Models
             }
         }
 
-        public double ArmorThickness { get; set; }
-        public double MainWeaponCaliber { get; }
-        public double Speed { get; }
+        public double MainWeaponCaliber => mainWeaponCaliber;
+        public double Speed => speed;
         public ICollection<string> Targets { get; }
+        public double  ArmorThickness { get => armorThickness; set => this.armorThickness = value; }
 
         public Vessel(string name, double mainWeaponCaliber, double speed, double armorThickness)
         {
             Name = name;
-            ArmorThickness = armorThickness;
-            defaultArmorThikness = armorThickness;
-            MainWeaponCaliber = mainWeaponCaliber;
-            Speed = speed;
+            this.armorThickness = armorThickness;
+            this.defaultArmorThikness = armorThickness;
+            this.mainWeaponCaliber = mainWeaponCaliber;
+            this.speed = speed;
         }
 
         public void Attack(IVessel target)
         {
             if (target == null) throw new NullReferenceException(ExceptionMessages.InvalidTarget);
+
+            captain.IncreaseCombatExperience();
+            
+            target.Captain.IncreaseCombatExperience();
 
             target.ArmorThickness -= MainWeaponCaliber;
 
@@ -73,33 +74,28 @@ namespace NavalVessels.Models
 
         public void RepairVessel()
         {
-            if (this.GetType() is IBattleship)
+            if (this.GetType() is IBattleship && this.armorThickness < 300)
             {
-                ArmorThickness = 300;
+                this.armorThickness = 300;
             }
-            else if (this.GetType() is ISubmarine)
+            else if (this.GetType() is ISubmarine && this.armorThickness < 200)
             {
-                ArmorThickness = 300;
-            }
-            else
-            {
-                ArmorThickness = 200;
+                this.armorThickness = 200;
             }
         }
 
-        public string ToString()
+        public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine($"- {Name}");
             sb.AppendLine($"*Type: {GetType().Name}");
-            sb.AppendLine($"*Armor thickness: {ArmorThickness}");
+            sb.AppendLine($"*Armor thickness: {armorThickness}");
             sb.AppendLine($"*Main weapon caliber: {MainWeaponCaliber}");
             sb.AppendLine($"*Speed: {Speed} knots");
-            sb.AppendLine($"- {Name}");
             if (Targets.Count == 0) sb.AppendLine("*Targets: None");
             else sb.AppendLine($"*Targets: {string.Join(", ", Targets)}");
-            
+
             return sb.ToString().TrimEnd();
         }
     }

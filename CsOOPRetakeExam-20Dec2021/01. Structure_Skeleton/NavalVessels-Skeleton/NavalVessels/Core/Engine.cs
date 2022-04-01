@@ -1,4 +1,6 @@
-﻿namespace NavalVessels.Core
+﻿using NavalVessels.Models;
+
+namespace NavalVessels.Core
 {
     using System;
     using System.Linq;

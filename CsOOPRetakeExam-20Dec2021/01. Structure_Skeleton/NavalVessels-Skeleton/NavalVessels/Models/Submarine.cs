@@ -3,31 +3,31 @@ using NavalVessels.Models.Contracts;
 
 namespace NavalVessels.Models
 {
-    public class Battleship : Vessel, IBattleship
+    public class Submarine : Vessel, ISubmarine
     {
-        private bool sonarMode;
+        private bool submergeMode;
 
-        public Battleship(string name, double mainWeaponCaliber, double speed, double armorThickness)
-            : base(name, mainWeaponCaliber, speed, 300)
+        public Submarine(string name, double mainWeaponCaliber, double speed, double armorThickness) 
+            : base(name, mainWeaponCaliber, speed, armorThickness)
         {
-            sonarMode = false;
+            submergeMode = false;
         }
 
-        public bool SonarMode { get => sonarMode; }
+        public bool SubmergeMode { get => submergeMode; }
 
-        public void ToggleSonarMode()
+        public void ToggleSubmergeMode()
         {
-            if (SonarMode)
+            if (submergeMode)
             {
-                sonarMode = false;
+                submergeMode = false;
                 mainWeaponCaliber -= 40;
-                speed += 5;
+                speed += 4;
             }
             else
             {
-                sonarMode = true;
+                submergeMode = true;
                 mainWeaponCaliber += 40;
-                speed -= 5;
+                speed -= 4;
             }
         }
 
@@ -44,10 +44,11 @@ namespace NavalVessels.Models
             if (Targets.Count == 0) sb.AppendLine("*Targets: None");
             else sb.AppendLine($"*Targets: {string.Join(", ", Targets)}");
 
-            if (SonarMode) sb.AppendLine($"*Submerge mode: ON");
+            if (submergeMode) sb.AppendLine($"*Submerge mode: ON");
             else sb.AppendLine($"*Submerge mode: OFF");
 
             return sb.ToString().TrimEnd();
         }
+
     }
 }
