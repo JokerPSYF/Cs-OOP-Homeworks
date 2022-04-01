@@ -8,12 +8,19 @@ namespace NavalVessels.Models
         private bool submergeMode;
 
         public Submarine(string name, double mainWeaponCaliber, double speed, double armorThickness) 
-            : base(name, mainWeaponCaliber, speed, armorThickness)
+            : base(name, mainWeaponCaliber, speed, 200)
         {
             submergeMode = false;
         }
 
-        public bool SubmergeMode { get => submergeMode; }
+        public bool SubmergeMode
+        {
+            get => submergeMode;
+            private set
+            {
+                value = submergeMode;
+            }
+        }
 
         public void ToggleSubmergeMode()
         {
@@ -29,6 +36,11 @@ namespace NavalVessels.Models
                 mainWeaponCaliber += 40;
                 speed -= 4;
             }
+        }
+
+        public override void RepairVessel()
+        {
+            ArmorThickness = 200;
         }
 
         public override string ToString()

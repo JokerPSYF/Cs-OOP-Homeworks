@@ -10,20 +10,43 @@ namespace NavalVessels.Models
     {
         private const int INCREASEDBY = 10;
 
+        private string fullName;
         private int combatExperience;
+        private readonly List<IVessel> vessels;
 
         public Captain(string fullName)
         {
-            if (string.IsNullOrWhiteSpace(fullName))  throw new ArgumentNullException(ExceptionMessages.InvalidCaptainName);
-            
+            if (string.IsNullOrWhiteSpace(fullName)) throw new ArgumentNullException(ExceptionMessages.InvalidCaptainName);
+
             FullName = fullName;
             combatExperience = 0;
-            Vessels = new List<IVessel>();
+            vessels = new List<IVessel>();
         }
-        
-        public string FullName { get; }
-        public int CombatExperience { get => combatExperience; }
-        public ICollection<IVessel> Vessels { get; }
+
+        public string FullName
+        {
+            get { return fullName; }
+            private set
+            {
+                if (String.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException(ExceptionMessages.InvalidCaptainName);
+                }
+
+                fullName = value;
+            }
+
+        }
+
+        public int CombatExperience
+        {
+            get => combatExperience;
+            private set
+            {
+                combatExperience = value;
+            }
+        }
+        public ICollection<IVessel> Vessels { get => vessels; }
 
         public void AddVessel(IVessel vessel)
         {
@@ -43,9 +66,12 @@ namespace NavalVessels.Models
 
             sb.AppendLine($"{FullName} has {CombatExperience} combat experience and commands {Vessels.Count} vessels.");
 
-            foreach (IVessel vessel in Vessels)
+            if (Vessels.Count > 0)
             {
-                sb.AppendLine(vessel.ToString());
+                foreach (IVessel vessel in Vessels)
+                {
+                    sb.AppendLine(vessel.ToString());
+                }
             }
 
             return sb.ToString().TrimEnd();
