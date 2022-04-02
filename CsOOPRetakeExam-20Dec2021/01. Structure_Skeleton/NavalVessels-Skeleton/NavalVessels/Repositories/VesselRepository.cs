@@ -19,7 +19,7 @@ namespace NavalVessels.Repositories
 
         public IReadOnlyCollection<IVessel> Models { get => models;  }
 
-        public void Add(IVessel model) => this.models.Append(model);
+        public void Add(IVessel model) => this.models.Add(model);
         
         public bool Remove(IVessel model) => models.Remove(model);
 

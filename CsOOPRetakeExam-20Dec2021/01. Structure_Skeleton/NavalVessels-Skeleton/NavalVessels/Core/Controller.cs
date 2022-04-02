@@ -31,6 +31,7 @@ namespace NavalVessels.Core
 
         public string ProduceVessel(string name, string vesselType, double mainWeaponCaliber, double speed)
         {
+            IVessel vessel;
             bool isValid = false;
 
             switch (vesselType)
@@ -38,7 +39,8 @@ namespace NavalVessels.Core
                 case nameof(Submarine):
                     if (vessels.FindByName(name) == null)
                     {
-                        vessels.Add(new Submarine(name, mainWeaponCaliber, speed));
+                        vessel = new Submarine(name, mainWeaponCaliber, speed);
+                        vessels.Add(vessel);
                         isValid = true;
                     }
                     break;
@@ -46,7 +48,8 @@ namespace NavalVessels.Core
                 case nameof(Battleship):
                     if (vessels.FindByName(name) == null)
                     {
-                        vessels.Add(new Battleship(name, mainWeaponCaliber, speed));
+                        vessel = new Battleship(name, mainWeaponCaliber, speed);
+                        vessels.Add(vessel);
                         isValid = true;
                     }
                     break;
