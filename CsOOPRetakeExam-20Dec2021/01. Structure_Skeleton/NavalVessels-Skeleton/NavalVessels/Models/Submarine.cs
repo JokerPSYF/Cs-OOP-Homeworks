@@ -7,7 +7,7 @@ namespace NavalVessels.Models
     {
         private bool submergeMode;
 
-        public Submarine(string name, double mainWeaponCaliber, double speed, double armorThickness) 
+        public Submarine(string name, double mainWeaponCaliber, double speed) 
             : base(name, mainWeaponCaliber, speed, 200)
         {
             submergeMode = false;

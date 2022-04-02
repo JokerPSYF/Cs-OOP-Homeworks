@@ -94,9 +94,9 @@ namespace NavalVessels.Models
         {
             if (target == null) throw new NullReferenceException(ExceptionMessages.InvalidTarget);
 
-            //captain.IncreaseCombatExperience();
+            captain.IncreaseCombatExperience();
 
-            //target.Captain.IncreaseCombatExperience();
+            target.Captain.IncreaseCombatExperience();
 
             target.ArmorThickness -= MainWeaponCaliber;
 

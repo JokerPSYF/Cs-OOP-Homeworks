@@ -7,7 +7,7 @@ namespace NavalVessels.Models
     {
         private bool sonarMode;
 
-        public Battleship(string name, double mainWeaponCaliber, double speed, double armorThickness)
+        public Battleship(string name, double mainWeaponCaliber, double speed)
             : base(name, mainWeaponCaliber, speed, 300)
         {
             sonarMode = false;
