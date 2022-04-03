@@ -53,7 +53,7 @@ namespace NavalVessels.Models
             {
                 return mainWeaponCaliber;
             }
-            protected set
+            protected set //!!
             {
                 mainWeaponCaliber = value;
             }
@@ -65,7 +65,7 @@ namespace NavalVessels.Models
             {
                 return speed;
             }
-            protected set
+            protected set //!!!
             {
                 speed = value;
             }
@@ -94,9 +94,9 @@ namespace NavalVessels.Models
         {
             if (target == null) throw new NullReferenceException(ExceptionMessages.InvalidTarget);
 
-            captain.IncreaseCombatExperience();
+            //captain.IncreaseCombatExperience();
 
-            target.Captain.IncreaseCombatExperience();
+            //target.Captain.IncreaseCombatExperience();
 
             target.ArmorThickness -= MainWeaponCaliber;
 

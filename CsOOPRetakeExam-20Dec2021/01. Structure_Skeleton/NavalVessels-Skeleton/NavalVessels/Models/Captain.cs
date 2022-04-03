@@ -26,7 +26,7 @@ namespace NavalVessels.Models
         public string FullName
         {
             get { return fullName; }
-            protected set
+            private set //!!!
             {
                 if (String.IsNullOrWhiteSpace(value))
                 {
