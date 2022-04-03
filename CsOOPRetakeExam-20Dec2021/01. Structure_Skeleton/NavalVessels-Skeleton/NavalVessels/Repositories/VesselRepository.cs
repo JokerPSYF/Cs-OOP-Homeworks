@@ -1,8 +1,5 @@
 ﻿using System.Collections.Generic;
-using System.Collections.ObjectModel;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using NavalVessels.Models;
 using NavalVessels.Models.Contracts;
 using NavalVessels.Repositories.Contracts;
 
@@ -17,9 +14,9 @@ namespace NavalVessels.Repositories
             models = new List<IVessel>();
         }
 
-        public IReadOnlyCollection<IVessel> Models { get => models;  }
+        public IReadOnlyCollection<IVessel> Models => models;  
 
-        public void Add(IVessel model) => this.models.Add(model);
+        public void Add(IVessel model) => models.Add(model);
         
         public bool Remove(IVessel model) => models.Remove(model);
 

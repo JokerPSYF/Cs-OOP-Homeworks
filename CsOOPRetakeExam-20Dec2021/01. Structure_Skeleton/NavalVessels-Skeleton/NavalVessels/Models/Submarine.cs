@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System;
+using System.Text;
 using NavalVessels.Models.Contracts;
 
 namespace NavalVessels.Models
@@ -45,21 +46,11 @@ namespace NavalVessels.Models
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
+            string result = SubmergeMode ? "ON" : "OFF";
 
-            sb.AppendLine($"- {Name}");
-            sb.AppendLine($"*Type: {GetType().Name}");
-            sb.AppendLine($"*Armor thickness: {ArmorThickness}");
-            sb.AppendLine($"*Main weapon caliber: {MainWeaponCaliber}");
-            sb.AppendLine($"*Speed: {Speed} knots");
-
-            if (Targets.Count == 0) sb.AppendLine("*Targets: None");
-            else sb.AppendLine($"*Targets: {string.Join(", ", Targets)}");
-
-            if (submergeMode) sb.AppendLine($"*Submerge mode: ON");
-            else sb.AppendLine($"*Submerge mode: OFF");
-
-            return sb.ToString().TrimEnd();
+            return base.ToString()
+                   + Environment.NewLine
+                   + $" *Submerge mode: {result}";
         }
 
     }
