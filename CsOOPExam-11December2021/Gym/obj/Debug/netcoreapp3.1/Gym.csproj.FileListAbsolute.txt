@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-11December2021\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache
