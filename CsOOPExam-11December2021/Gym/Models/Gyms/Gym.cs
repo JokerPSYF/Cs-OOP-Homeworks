@@ -32,13 +32,13 @@ namespace Gym.Models.Gyms
                 name = value;
             }
         }
-        public int Capacity { get; } //!!!
+        public int Capacity { get; private set; } //!!!
 
         public double EquipmentWeight => Equipment.Sum(x => x.Weight);
 
-        public ICollection<IEquipment> Equipment { get; private set; }
+        public ICollection<IEquipment> Equipment { get; }
 
-        public ICollection<IAthlete> Athletes { get; private set; }
+        public ICollection<IAthlete> Athletes { get; } //!!!
 
         public void AddAthlete(IAthlete athlete)
         {
@@ -75,7 +75,7 @@ namespace Gym.Models.Gyms
 
             sb.AppendLine($"Equipment total count: { Equipment.Count}");
 
-            sb.AppendLine($"Equipment total weight: {EquipmentWeight:f2} grams");
+            sb.Append($"Equipment total weight: {EquipmentWeight:f2} grams"); ///!!!
 
             return sb.ToString().TrimEnd();
         }

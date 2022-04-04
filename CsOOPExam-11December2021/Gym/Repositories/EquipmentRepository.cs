@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using Gym.Models.Equipment;
 using Gym.Models.Equipment.Contracts;
 using Gym.Repositories.Contracts;
 

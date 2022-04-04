@@ -11,7 +11,7 @@ namespace Gym.Models.Equipment
             Price = price;
         }
 
-        public double Weight { get; protected set; } //!!!
-        public decimal Price { get; } //!!!
+        public double Weight { get; private set; } //!!!
+        public decimal Price { get; private set; } //!!!
     }
 }

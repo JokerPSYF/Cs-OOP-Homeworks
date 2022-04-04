@@ -63,6 +63,5 @@ namespace Gym.Models.Athletes
         }
 
         public abstract void Exercise();
-       
     }
 }
