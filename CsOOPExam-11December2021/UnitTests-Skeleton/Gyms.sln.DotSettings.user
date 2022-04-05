@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=573a947f_002Ddfa1_002D4bc8_002Dbdca_002D5e04d8cef421/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CtorAthlete" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::95305376-1AD8-4E54-9B8B-F8ECBDD2D234::.NETCoreApp,Version=v3.1::Gyms.Tests.GymsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e82e72c8_002D8550_002D4d77_002Dbb67_002D50b0b0f556cf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CtorAthlete #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::95305376-1AD8-4E54-9B8B-F8ECBDD2D234::.NETCoreApp,Version=v3.1::Gyms.Tests.GymsTests.CtorAthlete&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
