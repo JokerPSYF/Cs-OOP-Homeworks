@@ -33,6 +33,8 @@ namespace WarCroft.Entities.Characters.Contracts
                     throw new ArgumentException
                         (String.Format(ExceptionMessages.CharacterNameInvalid));
                 }
+
+                name = value;
             }
         }
 
@@ -120,16 +122,18 @@ namespace WarCroft.Entities.Characters.Contracts
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            string aliveOrDead = "";
-            if (IsAlive == true)
-            {
-                aliveOrDead = "Alive";
-            }
-            else
-            {
-                aliveOrDead = "Dead";
-            }
-            sb.AppendLine($"{Name} - HP: {Health}/{BaseHealth}, AP: {Armor}/{BaseArmor}, Status: {aliveOrDead}");
+
+            string result = IsAlive ? "Alive" : "Dead";
+            
+            sb.AppendLine(String.Format
+                (SuccessMessages.CharacterStats,
+                    Name,
+                    Health,
+                    BaseHealth,
+                    Armor,
+                    BaseArmor,
+                    result ));
+
             return sb.ToString().TrimEnd();
         }
     }
