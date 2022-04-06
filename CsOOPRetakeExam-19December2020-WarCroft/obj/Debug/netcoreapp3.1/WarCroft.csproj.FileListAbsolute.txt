@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\bin\Debug\netcoreapp3.1\WarCroft.exe
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\bin\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\bin\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\obj\Debug\netcoreapp3.1\WarCroft.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\obj\Debug\netcoreapp3.1\WarCroft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\obj\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\obj\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPRetakeExam-19December2020-WarCroft\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache

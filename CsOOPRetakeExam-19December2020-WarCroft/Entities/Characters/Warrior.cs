@@ -10,10 +10,10 @@ namespace WarCroft.Entities.Characters.Contracts
             : base(name, 100, 50, 40, new Satchel())
         {
         }
-        
+
         public void Attack(Character character)
         {
-            if (!this.IsAlive || !character.IsAlive) return;
+            this.EnsureAlive();
 
             if (this == character)
             {
@@ -21,11 +21,7 @@ namespace WarCroft.Entities.Characters.Contracts
                     (String.Format(ExceptionMessages.CharacterAttacksSelf));
             }
 
-            if (this.AbilityPoints > character.Armor)
-            {
-                double remainingPoints = AbilityPoints - character.Armor;
-                character.Armor = 0;
-            }
+            character.TakeDamage(this.AbilityPoints);
         }
     }
 }

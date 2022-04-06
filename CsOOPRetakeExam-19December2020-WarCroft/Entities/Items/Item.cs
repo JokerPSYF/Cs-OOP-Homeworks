@@ -8,7 +8,7 @@ namespace WarCroft.Entities.Items
 	// Christmas came early this year - this class is already implemented for you!
 	public abstract class Item
 	{
-		protected Item(int weight)
+        protected Item(int weight)
 		{
 			this.Weight = weight;
 		}

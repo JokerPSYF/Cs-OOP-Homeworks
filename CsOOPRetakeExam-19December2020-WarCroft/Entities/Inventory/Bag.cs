@@ -8,11 +8,11 @@ using WarCroft.Entities.Items;
 
 namespace WarCroft.Entities.Inventory
 {
-    public class Bag : IBag
+    public abstract class Bag : IBag
     {
         private readonly List<Item> items;
 
-        public Bag(int capacity)
+        protected Bag(int capacity = 100)
         {
             Capacity = capacity;
             items = new List<Item>();
@@ -22,7 +22,7 @@ namespace WarCroft.Entities.Inventory
 
         public int Load => items.Sum(x => x.Weight);
 
-        public IReadOnlyCollection<Item> Items => this.items.AsReadOnly();
+        public IReadOnlyCollection<Item> Items => this.items;
 
         public void AddItem(Item item)
         {
@@ -37,13 +37,13 @@ namespace WarCroft.Entities.Inventory
 
         public Item GetItem(string name)
         {
-            if (!items.Any())
+            if (!Items.Any())
             {
                 throw new InvalidOperationException
                     (String.Format(ExceptionMessages.EmptyBag));
             }
 
-            Item currItem = items.FirstOrDefault(x => x.GetType().Name == name);
+            Item currItem = Items.FirstOrDefault(x => x.GetType().Name == name);
 
             if (currItem == null)
             {
