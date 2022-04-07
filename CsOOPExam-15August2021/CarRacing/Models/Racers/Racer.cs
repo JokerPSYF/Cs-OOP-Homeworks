@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 using CarRacing.Models.Cars.Contracts;
 using CarRacing.Models.Racers.Contracts;
 using CarRacing.Utilities.Messages;
@@ -55,7 +56,7 @@ namespace CarRacing.Models.Racers
             get => drivingExperience;
             protected set // !!!
             {
-                if (value < 0 || value > 0)
+                if (value < 0 || value > 100)
                 {
                     throw new ArgumentException
                         (ExceptionMessages.InvalidRacerDrivingExperience);
@@ -82,11 +83,22 @@ namespace CarRacing.Models.Racers
 
         public virtual void Race()
         {
-            Car.Drive();
+            Car.Drive();    
         }
 
         public bool IsAvailable() 
             => car.FuelAvailable - car.FuelConsumptionPerRace >= 0;
-        
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"{this.GetType().Name}: {this.Username}");
+            sb.AppendLine($"--Driving behavior: {RacingBehavior}");
+            sb.AppendLine($"--Driving experience: {DrivingExperience}");
+            sb.AppendLine($"--Car: {car.Make} {car.Model} ({car.VIN})");
+
+            return sb.ToString().TrimEnd();
+        }
     }
 }

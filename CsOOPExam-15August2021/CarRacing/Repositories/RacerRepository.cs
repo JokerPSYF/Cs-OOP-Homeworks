@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using CarRacing.Models.Racers;
@@ -8,7 +9,7 @@ using CarRacing.Utilities.Messages;
 
 namespace CarRacing.Repositories
 {
-    public class RacerRepository : IRepository<IRacer>
+    public class RacerRepository : IRepository<IRacer>//, IEnumerable<IRacer>
     {
         private List<IRacer> models;
 
@@ -32,9 +33,19 @@ namespace CarRacing.Repositories
 
         public bool Remove(IRacer model) => this.models.Remove(model);
         
-
         public IRacer FindBy(string property)
             => models.FirstOrDefault(x => x.Username == property);
-      
+
+        //-----------------------------------------------
+
+        //public IEnumerator<IRacer> GetEnumerator()
+        //{
+        //    throw new NotImplementedException();
+        //}
+
+        //IEnumerator IEnumerable.GetEnumerator()
+        //{
+        //    return GetEnumerator();
+        //}
     }
 }
