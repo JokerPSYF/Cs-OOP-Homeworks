@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 using SpaceStation.Models.Astronauts.Contracts;
 using SpaceStation.Models.Bags;
 using SpaceStation.Models.Bags.Contracts;
@@ -55,6 +56,23 @@ namespace SpaceStation.Models.Astronauts
         public virtual void Breath()
         {
             this.Oxygen -= 10;
+            if (Oxygen < 0)
+            {
+                Oxygen = 0;
+            }
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            string result = Bag.Items.Count > 0 ? string.Join(", ", Bag.Items) : "none";
+
+            sb.AppendLine($"Name: {this.Name}");
+            sb.AppendLine($"Oxygen: {this.Oxygen}");
+            sb.AppendLine($"Bag items: {result}");
+
+            return sb.ToString().TrimEnd();
         }
     }
 }

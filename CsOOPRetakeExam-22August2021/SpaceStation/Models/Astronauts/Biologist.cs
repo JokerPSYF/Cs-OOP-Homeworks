@@ -10,6 +10,10 @@
         public override void Breath()
         {
             this.Oxygen -= 5;
+            if (Oxygen < 0)
+            {
+                Oxygen = 0;
+            }
         }
     }
 }
