@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\Admin\source\repos\Cs-OOP-Homeworks\CsOOPExam-15August2021\UnitTests\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache
