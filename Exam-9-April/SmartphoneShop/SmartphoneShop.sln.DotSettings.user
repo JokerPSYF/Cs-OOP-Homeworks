@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=100fbbfe_002D7418_002D4c2d_002Da1b2_002D583ecf2da13a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SmartPhoneCtorTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::912F2A04-97B9-4033-9FEA-9D11E4BA9EC2::.NETCoreApp,Version=v3.1::SmartphoneShop.Tests.SmartphoneShopTests.SmartPhoneCtorTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9f690fe6_002Dcc10_002D4c83_002D999e_002D508f8b6dd5bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SmartPhoneCtorTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::912F2A04-97B9-4033-9FEA-9D11E4BA9EC2::.NETCoreApp,Version=v3.1::SmartphoneShop.Tests.SmartphoneShopTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
